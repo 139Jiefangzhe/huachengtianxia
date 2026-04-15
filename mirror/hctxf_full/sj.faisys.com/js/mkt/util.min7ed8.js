@@ -1,1 +1,0 @@
-if(typeof Portal=="undefined"){Portal={}}Portal.converDate=function(a){var b=new Object();b.year=a.substring(0,4);b.month=a.substring(5,7);b.day=a.substring(8,10);return b};

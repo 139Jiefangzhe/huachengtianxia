@@ -1,5 +1,0 @@
-[
-  { "type": "banner", "enabled": true, "props": {} },
-  { "type": "team-grid", "enabled": true, "props": {} },
-  { "type": "simple-list", "enabled": true, "props": {} }
-]

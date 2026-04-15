@@ -1,1 +1,0 @@
-if(typeof Robot=='undefined' || !Robot) {SgRobotParam={"id":33,"domain":"400vo.com","pcImg":"400vo.com-onlineimgsrc_cn.png","mbImg":"400vo.com-moble.png","hotNumber":"400-990-1010","mainColor":"#E93854","autoPopUp":null,"tag":"","website":"www.400vo.com"};SgWebSite='www.400vo.com';document.write('<script  src="https://ik.sungoin.com/js/online.js"></script>');}
