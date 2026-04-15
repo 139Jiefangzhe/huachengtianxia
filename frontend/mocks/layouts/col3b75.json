@@ -1,0 +1,6 @@
+[
+  { "type": "banner", "enabled": true, "props": {} },
+  { "type": "sidebar-nav", "enabled": true, "props": {} },
+  { "type": "report-table", "enabled": true, "props": {} },
+  { "type": "timeline-list", "enabled": true, "props": {} }
+]

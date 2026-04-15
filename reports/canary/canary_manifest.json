@@ -1,0 +1,13 @@
+{
+  "synthetic": {
+    "old_slug": "nd-canary-synthetic",
+    "min_quotes": 1,
+    "require_published": true
+  },
+  "real_subset": [
+    { "collection": "categories", "old_slug": "col3b75" },
+    { "collection": "categories", "old_slug": "cola262" },
+    { "collection": "articles", "old_slug": "nd3563" },
+    { "collection": "categories", "old_slug": "nr" }
+  ]
+}

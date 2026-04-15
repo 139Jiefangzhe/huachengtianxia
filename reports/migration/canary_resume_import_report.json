@@ -1,0 +1,1299 @@
+{
+  "mode": "import",
+  "generated_at": "2026-04-15T03:22:07.637Z",
+  "input_dir": "/home/haoran/web_hctx/huachengtinaxia/mirror/hctxf_full/hctxf.org",
+  "manifest_path": "/home/haoran/web_hctx/huachengtinaxia/reports/frontend_extract/frontend_file_manifest.tsv",
+  "layout_map_path": "/home/haoran/web_hctx/huachengtinaxia/reports/frontend_extract/layout_signature_mapping.tsv",
+  "canary_manifest_path": "/home/haoran/web_hctx/huachengtinaxia/reports/canary/canary_manifest.json",
+  "canary_test_old_slugs": [
+    "nd-canary-synthetic"
+  ],
+  "totals": {
+    "total": 0,
+    "success": 0,
+    "needs_review": 0,
+    "failed": 0
+  },
+  "error_rate": 0,
+  "expected_error_rate_threshold": 0.05,
+  "media_success_rate": 1,
+  "summary": {
+    "content_pages_migrated": 0,
+    "homepage_status": "excluded_by_design",
+    "total_files_scanned": 1
+  },
+  "homepage_analysis": {
+    "file": "index.html",
+    "detected": true,
+    "homepage_status": "excluded_by_design",
+    "modules_detected": [
+      "2",
+      "428",
+      "431",
+      "432",
+      "433",
+      "482",
+      "484",
+      "485",
+      "506",
+      "507",
+      "509",
+      "510",
+      "515",
+      "516",
+      "517",
+      "518",
+      "519",
+      "520",
+      "521",
+      "522",
+      "523",
+      "524",
+      "525",
+      "526",
+      "527",
+      "528",
+      "529",
+      "530",
+      "532",
+      "533",
+      "534",
+      "535",
+      "536",
+      "583",
+      "586",
+      "587",
+      "588",
+      "589",
+      "590",
+      "598",
+      "599",
+      "600",
+      "619",
+      "620",
+      "623",
+      "624",
+      "625",
+      "632",
+      "633",
+      "634",
+      "635"
+    ],
+    "action_plan": "Manual configuration via Directus Singleton 'global_settings'.",
+    "risk_level": "Low"
+  },
+  "quote_stats": {
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "slug_conflicts": [
+    {
+      "old_slug": "nd0985",
+      "page_type": "nd",
+      "title": "驰援！北京兴业源物业等爱心企业捐赠50万元抗击武汉疫情！",
+      "original_slug": "50",
+      "final_slug": "50-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd09c3",
+      "page_type": "nd",
+      "title": "书香情怀 助力镇安----北京化成天下公益基金会、清华经管学院EMBA07级北京校友会陕西校友会联手为我校捐赠百万图书",
+      "original_slug": "emba07",
+      "final_slug": "emba07-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd0cca",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2022年度审计报告",
+      "original_slug": "2022",
+      "final_slug": "2022-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd0e88",
+      "page_type": "nd",
+      "title": "兴源集团25周年 | 全国 7 城联动，“感恩季・‘益’起逛市集”公益温情落幕，共筑美好家园！",
+      "original_slug": "25-7",
+      "final_slug": "25-7-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd0f0e",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2018年收支公示",
+      "original_slug": "2018",
+      "final_slug": "2018-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd1288",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2018年度工作报告",
+      "original_slug": "2018",
+      "final_slug": "2018-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd12f8",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2024年工作报告",
+      "original_slug": "2024",
+      "final_slug": "2024-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd1627",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2014年收支公示",
+      "original_slug": "2014",
+      "final_slug": "2014-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd1d50",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2018年收支公示",
+      "original_slug": "2018",
+      "final_slug": "2018-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd2372",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2024年审计报告",
+      "original_slug": "2024",
+      "final_slug": "2024-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd2439",
+      "page_type": "nd",
+      "title": "植绿增绿护绿，兴源集团开展2024年春季植树活动",
+      "original_slug": "2024",
+      "final_slug": "2024-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd299d",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2018年收支公示",
+      "original_slug": "2018",
+      "final_slug": "2018-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd2b08",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2023年审计报告",
+      "original_slug": "2023",
+      "final_slug": "2023-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd31db",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2020年度审计报告",
+      "original_slug": "2020",
+      "final_slug": "2020-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd37bf",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2017年度工作报告",
+      "original_slug": "2017",
+      "final_slug": "2017-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd39d7",
+      "page_type": "nd",
+      "title": "抗击疫情化成天下三天捐赠20余万急需物资",
+      "original_slug": "20",
+      "final_slug": "20-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd3b20",
+      "page_type": "nd",
+      "title": "驰援！北京兴业源物业等爱心企业捐赠50万元抗击武汉疫情！",
+      "original_slug": "50",
+      "final_slug": "50-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd3c49",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2015年收支公示",
+      "original_slug": "2015",
+      "final_slug": "2015-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd3de2",
+      "page_type": "nd",
+      "title": "吴春燕2015公益演唱会在人民大会堂举行",
+      "original_slug": "2015",
+      "final_slug": "2015-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd3dfd",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会荣获3A级社会组织称号",
+      "original_slug": "3a",
+      "final_slug": "3a-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd3e0b",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2022年度工作报告",
+      "original_slug": "2022",
+      "final_slug": "2022-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd3f91",
+      "page_type": "nd",
+      "title": "清华大学经管学院EMBA2007级北京校友会共建图书馆捐赠仪式在兴源高中圆满举行",
+      "original_slug": "emba2007",
+      "final_slug": "emba2007-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd4018",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2020年度工作报告",
+      "original_slug": "2020",
+      "final_slug": "2020-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd4078",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2020年度工作报告",
+      "original_slug": "2020",
+      "final_slug": "2020-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd4133",
+      "page_type": "nd",
+      "title": "300万捐赠，只为“珍爱生命，饮出健康”",
+      "original_slug": "300",
+      "final_slug": "300-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd41c6",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2018年收支公示",
+      "original_slug": "2018",
+      "final_slug": "2018-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd426c",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2017年度工作报告",
+      "original_slug": "2017",
+      "final_slug": "2017-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd49a2",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会荣获3A级社会组织称号",
+      "original_slug": "3a",
+      "final_slug": "3a-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd4a4a",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2020年度审计报告",
+      "original_slug": "2020",
+      "final_slug": "2020-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd4b61",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2014年收支公示",
+      "original_slug": "2014",
+      "final_slug": "2014-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd4d4f",
+      "page_type": "nd",
+      "title": "热烈祝贺刘海鹰荣获 第15届---2020“爱心奖”",
+      "original_slug": "15-2020",
+      "final_slug": "15-2020-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd5576",
+      "page_type": "nd",
+      "title": "300万捐赠，只为“珍爱生命，饮出健康”",
+      "original_slug": "300",
+      "final_slug": "300-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd55c0",
+      "page_type": "nd",
+      "title": "2025年专项审计",
+      "original_slug": "2025",
+      "final_slug": "2025-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd55ff",
+      "page_type": "nd",
+      "title": "2025年专项审计",
+      "original_slug": "2025",
+      "final_slug": "2025-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd56c2",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2026年新年贺词",
+      "original_slug": "2026",
+      "final_slug": "2026-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd582f",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2021年度审计报告",
+      "original_slug": "2021",
+      "final_slug": "2021-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd59c7",
+      "page_type": "nd",
+      "title": "300万捐赠，只为“珍爱生命，饮出健康”",
+      "original_slug": "300",
+      "final_slug": "300-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd5c1c",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2024年审计报告",
+      "original_slug": "2024",
+      "final_slug": "2024-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd5c6d",
+      "page_type": "nd",
+      "title": "清华大学经管学院EMBA2007级北京校友会共建图书馆捐赠仪式在兴源高中圆满举行",
+      "original_slug": "emba2007",
+      "final_slug": "emba2007-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd5c8d",
+      "page_type": "nd",
+      "title": "抗击新冠疫情，全国80后书法家在行动",
+      "original_slug": "80",
+      "final_slug": "80-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd606c",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2017年收支公示",
+      "original_slug": "2017",
+      "final_slug": "2017-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd6101",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2015年收支公示",
+      "original_slug": "2015",
+      "final_slug": "2015-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd63d7",
+      "page_type": "nd",
+      "title": "书香情怀 助力镇安----北京化成天下公益基金会、清华经管学院EMBA07级北京校友会陕西校友会联手为我校捐赠百万图书",
+      "original_slug": "emba07",
+      "final_slug": "emba07-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd6494",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2026年新年贺词",
+      "original_slug": "2026",
+      "final_slug": "2026-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd651a",
+      "page_type": "nd",
+      "title": "捐款10万元助力鲁山县抗击新型冠状病毒肺炎疫情",
+      "original_slug": "10",
+      "final_slug": "10-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd6bfb",
+      "page_type": "nd",
+      "title": "兴源集团25周年 | 全国 7 城联动，“感恩季・‘益’起逛市集”公益温情落幕，共筑美好家园！",
+      "original_slug": "25-7",
+      "final_slug": "25-7-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd6d44",
+      "page_type": "nd",
+      "title": "2017年度北京化成天下公益基金会审计报告",
+      "original_slug": "2017",
+      "final_slug": "2017-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd6d49",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2019年度工作报告",
+      "original_slug": "2019",
+      "final_slug": "2019-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd6ea4",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2020年度审计报告",
+      "original_slug": "2020",
+      "final_slug": "2020-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd6fce",
+      "page_type": "nd",
+      "title": "2017年度北京化成天下公益基金会审计报告",
+      "original_slug": "2017",
+      "final_slug": "2017-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd6ff5",
+      "page_type": "nd",
+      "title": "抗击新冠疫情，全国80后书法家在行动",
+      "original_slug": "80",
+      "final_slug": "80-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd7019",
+      "page_type": "nd",
+      "title": "2025年专项审计",
+      "original_slug": "2025",
+      "final_slug": "2025-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd71b0",
+      "page_type": "nd",
+      "title": "再捐50万元，抗击疫情我们一直在行动",
+      "original_slug": "50",
+      "final_slug": "50-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd7226",
+      "page_type": "nd",
+      "title": "抗击新冠疫情，全国80后书法家在行动",
+      "original_slug": "80",
+      "final_slug": "80-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd7681",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2026年新年贺词",
+      "original_slug": "2026",
+      "final_slug": "2026-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd78dc",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2021年度工作报告",
+      "original_slug": "2021",
+      "final_slug": "2021-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd7958",
+      "page_type": "nd",
+      "title": "植绿增绿护绿，兴源集团开展2024年春季植树活动",
+      "original_slug": "2024",
+      "final_slug": "2024-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd7c32",
+      "page_type": "nd",
+      "title": "捐款10万元助力鲁山县抗击新型冠状病毒肺炎疫情",
+      "original_slug": "10",
+      "final_slug": "10-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd7c77",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会荣获3A级社会组织称号",
+      "original_slug": "3a",
+      "final_slug": "3a-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd7de7",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2022年度审计报告",
+      "original_slug": "2022",
+      "final_slug": "2022-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd7f95",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2026年新年贺词",
+      "original_slug": "2026",
+      "final_slug": "2026-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd812e",
+      "page_type": "nd",
+      "title": "2017年度北京化成天下公益基金会审计报告",
+      "original_slug": "2017",
+      "final_slug": "2017-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd8230",
+      "page_type": "nd",
+      "title": "2017年度北京化成天下公益基金会审计报告",
+      "original_slug": "2017",
+      "final_slug": "2017-7",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd85d9",
+      "page_type": "nd",
+      "title": "驰援！北京兴业源物业等爱心企业捐赠50万元抗击武汉疫情！",
+      "original_slug": "50",
+      "final_slug": "50-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd85e2",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2018年度工作报告",
+      "original_slug": "2018",
+      "final_slug": "2018-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd869e",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2022年度审计报告",
+      "original_slug": "2022",
+      "final_slug": "2022-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd888e",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2023年工作报告",
+      "original_slug": "2023",
+      "final_slug": "2023-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd8941",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2014年收支公示",
+      "original_slug": "2014",
+      "final_slug": "2014-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd89b7",
+      "page_type": "nd",
+      "title": "清华大学经管学院EMBA2007级北京校友会共建图书馆捐赠仪式在兴源高中圆满举行",
+      "original_slug": "emba2007",
+      "final_slug": "emba2007-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd89dd",
+      "page_type": "nd",
+      "title": "2015文化中国讲坛•春季讲座",
+      "original_slug": "2015",
+      "final_slug": "2015-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd8f0e",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2023年工作报告",
+      "original_slug": "2023",
+      "final_slug": "2023-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd8f80",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2024年审计报告",
+      "original_slug": "2024",
+      "final_slug": "2024-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd8fbf",
+      "page_type": "nd",
+      "title": "清华大学经管学院EMBA2007级北京校友会共建图书馆捐赠仪式在兴源高中圆满举行",
+      "original_slug": "emba2007",
+      "final_slug": "emba2007-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd90b4",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2017年收支公示",
+      "original_slug": "2017",
+      "final_slug": "2017-8",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd938d",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2016年收支公示",
+      "original_slug": "2016",
+      "final_slug": "2016-1",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd9526",
+      "page_type": "nd",
+      "title": "驰援！北京兴业源物业等爱心企业捐赠50万元抗击武汉疫情！",
+      "original_slug": "50",
+      "final_slug": "50-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd9590",
+      "page_type": "nd",
+      "title": "抗击疫情化成天下三天捐赠20余万急需物资",
+      "original_slug": "20",
+      "final_slug": "20-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd9a01",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2016年收支公示",
+      "original_slug": "2016",
+      "final_slug": "2016-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd9a91",
+      "page_type": "nd",
+      "title": "2015文化中国讲坛•春季讲座",
+      "original_slug": "2015",
+      "final_slug": "2015-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd9aee",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2016年收支公示",
+      "original_slug": "2016",
+      "final_slug": "2016-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd9c8b",
+      "page_type": "nd",
+      "title": "植绿增绿护绿，兴源集团开展2024年春季植树活动",
+      "original_slug": "2024",
+      "final_slug": "2024-7",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd9ceb",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2016年收支公示",
+      "original_slug": "2016",
+      "final_slug": "2016-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nd9ec5",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2019年度审计报告",
+      "original_slug": "2019",
+      "final_slug": "2019-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nda0c2",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2023年审计报告",
+      "original_slug": "2023",
+      "final_slug": "2023-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nda262",
+      "page_type": "nd",
+      "title": "2018年度北京化成天下公益基金会审计报告",
+      "original_slug": "2018",
+      "final_slug": "2018-7",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nda2ea",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2018年度工作报告",
+      "original_slug": "2018",
+      "final_slug": "2018-8",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nda387",
+      "page_type": "nd",
+      "title": "再捐50万元，抗击疫情我们一直在行动",
+      "original_slug": "50",
+      "final_slug": "50-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nda404",
+      "page_type": "nd",
+      "title": "2018年度北京化成天下公益基金会审计报告",
+      "original_slug": "2018",
+      "final_slug": "2018-9",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nda6c2",
+      "page_type": "nd",
+      "title": "抗击新冠疫情，全国80后书法家在行动",
+      "original_slug": "80",
+      "final_slug": "80-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nda8ad",
+      "page_type": "nd",
+      "title": "兴源集团25周年 | 全国 7 城联动，“感恩季・‘益’起逛市集”公益温情落幕，共筑美好家园！",
+      "original_slug": "25-7",
+      "final_slug": "25-7-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndaa3d",
+      "page_type": "nd",
+      "title": "300万捐赠，只为“珍爱生命，饮出健康”",
+      "original_slug": "300",
+      "final_slug": "300-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndab99",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2021年度审计报告",
+      "original_slug": "2021",
+      "final_slug": "2021-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndacab",
+      "page_type": "nd",
+      "title": "书香情怀 助力镇安----北京化成天下公益基金会、清华经管学院EMBA07级北京校友会陕西校友会联手为我校捐赠百万图书",
+      "original_slug": "emba07",
+      "final_slug": "emba07-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndad5b",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2024年工作报告",
+      "original_slug": "2024",
+      "final_slug": "2024-8",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndae67",
+      "page_type": "nd",
+      "title": "2025年审计报告",
+      "original_slug": "2025",
+      "final_slug": "2025-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb07a",
+      "page_type": "nd",
+      "title": "热烈祝贺刘海鹰荣获 第15届---2020“爱心奖”",
+      "original_slug": "15-2020",
+      "final_slug": "15-2020-2",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb215",
+      "page_type": "nd",
+      "title": "2015文化中国讲坛•春季讲座",
+      "original_slug": "2015",
+      "final_slug": "2015-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb3a7",
+      "page_type": "nd",
+      "title": "2025年审计报告",
+      "original_slug": "2025",
+      "final_slug": "2025-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb479",
+      "page_type": "nd",
+      "title": "捐款10万元助力鲁山县抗击新型冠状病毒肺炎疫情",
+      "original_slug": "10",
+      "final_slug": "10-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb4cd",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2015年收支公示",
+      "original_slug": "2015",
+      "final_slug": "2015-7",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb4d1",
+      "page_type": "nd",
+      "title": "植绿增绿护绿，兴源集团开展2024年春季植树活动",
+      "original_slug": "2024",
+      "final_slug": "2024-9",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb540",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2017年收支公示",
+      "original_slug": "2017",
+      "final_slug": "2017-9",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb5c2",
+      "page_type": "nd",
+      "title": "书香情怀 助力镇安----北京化成天下公益基金会、清华经管学院EMBA07级北京校友会陕西校友会联手为我校捐赠百万图书",
+      "original_slug": "emba07",
+      "final_slug": "emba07-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb699",
+      "page_type": "nd",
+      "title": "抗击疫情化成天下三天捐赠20余万急需物资",
+      "original_slug": "20",
+      "final_slug": "20-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb87b",
+      "page_type": "nd",
+      "title": "吴春燕2015公益演唱会在人民大会堂举行",
+      "original_slug": "2015",
+      "final_slug": "2015-8",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndb93b",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2015年收支公示",
+      "original_slug": "2015",
+      "final_slug": "2015-9",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndbbec",
+      "page_type": "nd",
+      "title": "兴源集团25周年 | 全国 7 城联动，“感恩季・‘益’起逛市集”公益温情落幕，共筑美好家园！",
+      "original_slug": "25-7",
+      "final_slug": "25-7-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndbd12",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2023年工作报告",
+      "original_slug": "2023",
+      "final_slug": "2023-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndc09f",
+      "page_type": "nd",
+      "title": "吴春燕2015公益演唱会在人民大会堂举行",
+      "original_slug": "2015",
+      "final_slug": "2015-10",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndc0e8",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2021年度工作报告",
+      "original_slug": "2021",
+      "final_slug": "2021-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndc17f",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2016年收支公示",
+      "original_slug": "2016",
+      "final_slug": "2016-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndc1fb",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2023年审计报告",
+      "original_slug": "2023",
+      "final_slug": "2023-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndc201",
+      "page_type": "nd",
+      "title": "书香情怀 助力镇安----北京化成天下公益基金会、清华经管学院EMBA07级北京校友会陕西校友会联手为我校捐赠百万图书",
+      "original_slug": "emba07",
+      "final_slug": "emba07-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndc281",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2019年度审计报告",
+      "original_slug": "2019",
+      "final_slug": "2019-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndc47a",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2019年度工作报告",
+      "original_slug": "2019",
+      "final_slug": "2019-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndc57a",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2026年新年贺词",
+      "original_slug": "2026",
+      "final_slug": "2026-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndce17",
+      "page_type": "nd",
+      "title": "2016年度北京化成天下公益基金会审计报告",
+      "original_slug": "2016",
+      "final_slug": "2016-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndcf23",
+      "page_type": "nd",
+      "title": "2025年专项审计",
+      "original_slug": "2025",
+      "final_slug": "2025-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndcfc4",
+      "page_type": "nd",
+      "title": "再捐50万元，抗击疫情我们一直在行动",
+      "original_slug": "50",
+      "final_slug": "50-7",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndd9e6",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2017年收支公示",
+      "original_slug": "2017",
+      "final_slug": "2017-10",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndd9fe",
+      "page_type": "nd",
+      "title": "再捐50万元，抗击疫情我们一直在行动",
+      "original_slug": "50",
+      "final_slug": "50-8",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nddb5d",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2022年度审计报告",
+      "original_slug": "2022",
+      "final_slug": "2022-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nddeea",
+      "page_type": "nd",
+      "title": "吴春燕2015公益演唱会在人民大会堂举行",
+      "original_slug": "2015",
+      "final_slug": "2015-11",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nddf3e",
+      "page_type": "nd",
+      "title": "捐款10万元助力鲁山县抗击新型冠状病毒肺炎疫情",
+      "original_slug": "10",
+      "final_slug": "10-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nddf7d",
+      "page_type": "nd",
+      "title": "2018年度北京化成天下公益基金会审计报告",
+      "original_slug": "2018",
+      "final_slug": "2018-10",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nddfc6",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2024年工作报告",
+      "original_slug": "2024",
+      "final_slug": "2024-10",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nde27e",
+      "page_type": "nd",
+      "title": "2015文化中国讲坛•春季讲座",
+      "original_slug": "2015",
+      "final_slug": "2015-12",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nde456",
+      "page_type": "nd",
+      "title": "再捐50万元，抗击疫情我们一直在行动",
+      "original_slug": "50",
+      "final_slug": "50-9",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nde46a",
+      "page_type": "nd",
+      "title": "植绿增绿护绿，兴源集团开展2024年春季植树活动",
+      "original_slug": "2024",
+      "final_slug": "2024-11",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nde493",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2015年收支公示",
+      "original_slug": "2015",
+      "final_slug": "2015-13",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nde4b1",
+      "page_type": "nd",
+      "title": "2018年度北京化成天下公益基金会审计报告",
+      "original_slug": "2018",
+      "final_slug": "2018-11",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nde8e2",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2020年度审计报告",
+      "original_slug": "2020",
+      "final_slug": "2020-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nde8f5",
+      "page_type": "nd",
+      "title": "热烈祝贺刘海鹰荣获 第15届---2020“爱心奖”",
+      "original_slug": "15-2020",
+      "final_slug": "15-2020-3",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nde935",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会荣获3A级社会组织称号",
+      "original_slug": "3a",
+      "final_slug": "3a-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "nde9e0",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2019年度工作报告",
+      "original_slug": "2019",
+      "final_slug": "2019-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndf00b",
+      "page_type": "nd",
+      "title": "2015文化中国讲坛•春季讲座",
+      "original_slug": "2015",
+      "final_slug": "2015-14",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndf092",
+      "page_type": "nd",
+      "title": "热烈祝贺刘海鹰荣获 第15届---2020“爱心奖”",
+      "original_slug": "15-2020",
+      "final_slug": "15-2020-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndf222",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2017年收支公示",
+      "original_slug": "2017",
+      "final_slug": "2017-11",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndf39a",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2021年度审计报告",
+      "original_slug": "2021",
+      "final_slug": "2021-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndf546",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2021年度工作报告",
+      "original_slug": "2021",
+      "final_slug": "2021-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndf68c",
+      "page_type": "nd",
+      "title": "2016年度北京化成天下公益基金会审计报告",
+      "original_slug": "2016",
+      "final_slug": "2016-7",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndf9a9",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2022年度工作报告",
+      "original_slug": "2022",
+      "final_slug": "2022-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndfa0c",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2014年收支公示",
+      "original_slug": "2014",
+      "final_slug": "2014-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndfa29",
+      "page_type": "nd",
+      "title": "抗击疫情化成天下三天捐赠20余万急需物资",
+      "original_slug": "20",
+      "final_slug": "20-4",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndfcee",
+      "page_type": "nd",
+      "title": "2016年度北京化成天下公益基金会审计报告",
+      "original_slug": "2016",
+      "final_slug": "2016-8",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndfd05",
+      "page_type": "nd",
+      "title": "兴源集团25周年 | 全国 7 城联动，“感恩季・‘益’起逛市集”公益温情落幕，共筑美好家园！",
+      "original_slug": "25-7",
+      "final_slug": "25-7-5",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndffa0",
+      "page_type": "nd",
+      "title": "北京化成天下公益基金会2019年度审计报告",
+      "original_slug": "2019",
+      "final_slug": "2019-6",
+      "reason": "collision"
+    },
+    {
+      "old_slug": "ndffa6",
+      "page_type": "nd",
+      "title": "2025年审计报告",
+      "original_slug": "2025",
+      "final_slug": "2025-7",
+      "reason": "collision"
+    }
+  ],
+  "missing_assets_count": 0,
+  "missing_assets_total_count": 0,
+  "missing_assets_low_count": 0,
+  "missing_assets_critical_count": 0,
+  "stale_recovered_count": 0,
+  "auto_archived_count": 0,
+  "asset_policy": {
+    "critical_domains": [
+      "13526051.s21i.faiusr.com",
+      "hctxf.org",
+      "download.s21i.co99.net"
+    ],
+    "ignore_domains": [
+      "ps.faisys.com",
+      "oem.508sys.com",
+      "fe.508sys.com",
+      "mmbiz.qpic.cn",
+      "www.w3.org",
+      "stats.ipinyou.com"
+    ],
+    "manual_ignore_list": []
+  },
+  "results": []
+}

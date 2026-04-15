@@ -1,0 +1,5 @@
+# Generated/managed by platform/scripts/set-gray-mode.sh
+# Allowed values: off | internal | all
+map "" $legacy_redirect_mode {
+  default all;
+}

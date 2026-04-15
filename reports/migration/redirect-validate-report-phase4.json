@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-04-15T03:43:45.543Z",
+  "map_path": "/home/haoran/web_hctx/huachengtinaxia/platform/nginx/conf.d/redirects/legacy.map",
+  "expected_total": 664,
+  "actual_total": 664,
+  "coverage_ok": true,
+  "duplicate_ok": true,
+  "duplicates": [],
+  "sample_size": 10,
+  "sample_pass_rate": 1,
+  "pass": true,
+  "samples": [
+    {
+      "old_url": "/col004c.html",
+      "expected_target": "/news/category/foundation-news",
+      "status_code": 301,
+      "location": "http://localhost/news/category/foundation-news",
+      "pass": true
+    },
+    {
+      "old_url": "/nd09c3.html",
+      "expected_target": "/news/emba07-1",
+      "status_code": 301,
+      "location": "http://localhost/news/emba07-1",
+      "pass": true
+    },
+    {
+      "old_url": "/nd266c.html",
+      "expected_target": "/news/nd266c",
+      "status_code": 301,
+      "location": "http://localhost/news/nd266c",
+      "pass": true
+    },
+    {
+      "old_url": "/nd4078.html",
+      "expected_target": "/news/2020-3",
+      "status_code": 301,
+      "location": "http://localhost/news/2020-3",
+      "pass": true
+    },
+    {
+      "old_url": "/nd5de5.html",
+      "expected_target": "/news/nd5de5",
+      "status_code": 301,
+      "location": "http://localhost/news/nd5de5",
+      "pass": true
+    },
+    {
+      "old_url": "/nd7c77.html",
+      "expected_target": "/news/3a-3",
+      "status_code": 301,
+      "location": "http://localhost/news/3a-3",
+      "pass": true
+    },
+    {
+      "old_url": "/nd9bb2.html",
+      "expected_target": "/news/nd9bb2",
+      "status_code": 301,
+      "location": "http://localhost/news/nd9bb2",
+      "pass": true
+    },
+    {
+      "old_url": "/ndb3a7.html",
+      "expected_target": "/news/2025-5",
+      "status_code": 301,
+      "location": "http://localhost/news/2025-5",
+      "pass": true
+    },
+    {
+      "old_url": "/ndce17.html",
+      "expected_target": "/news/2016-6",
+      "status_code": 301,
+      "location": "http://localhost/news/2016-6",
+      "pass": true
+    },
+    {
+      "old_url": "/nde8ec.html",
+      "expected_target": "/news/nde8ec",
+      "status_code": 301,
+      "location": "http://localhost/news/nde8ec",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+services:
+  frontend:
+    environment:
+      NODE_ENV: production
+    command: ["npm", "run", "start"]
+
+  directus:
+    environment:
+      LOG_LEVEL: info
+      CACHE_AUTO_PURGE: true

@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-04-15T03:45:32.810Z",
+  "manifest_path": "/home/haoran/web_hctx/huachengtinaxia/reports/canary/canary_manifest.json",
+  "synthetic": {
+    "pass": true,
+    "errors": []
+  },
+  "real_subset": {
+    "pass": true,
+    "failures": []
+  }
+}
