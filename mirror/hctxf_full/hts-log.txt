@@ -1,0 +1,156 @@
+HTTrack3.49-5 launched on Fri, 10 Apr 2026 16:27:50 at https://hctxf.org/ https://www.hctxf.org/ http://hctxf.org/ http://www.hctxf.org/ +*
+(httrack https://hctxf.org/ https://www.hctxf.org/ http://hctxf.org/ http://www.hctxf.org/ +* -w -O /data2/huachengtinaxia/mirror/hctxf_full -r9999 -%e1 -n -%q -c4 -%c2 -R3 -T25 -s0 -M20000000000 -%k -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" -iC1 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:35:52	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): datareport.webportal.top/js/report
+16:36:16	Error: 	"Unknown error" (521) at link https://beian.miit.gov.cn/ (from https://hctxf.org/)
+16:37:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): datareport.fkw.com/js/report
+16:37:53	Error: 	"Not Found" (404) at link 2.ss.508sys.com/css/dist/styles/res/js/pie/PIE.min.htc?v=201507141146 (from 2.ss.508sys.com/css/dist/styles/floatBtn1.min.css?v=202402221530)
+16:54:37	Error: 	"Not Found" (404) at link https://hctxf.org/"https://mmbiz.qpic.cn/sz_mmbiz_png/jaAElKZ6hFTEUG8M4oD6YL6icnQQJt2N73gEiaoiaB7trB6PePABP9VRFylPhzAYtRDayobU3tMTQZnzz4Yg6j2xQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=10015&wx_lazy=1%22 (from https://hctxf.org/nd.jsp?fromColId=2&id=220)
+16:54:37	Error: 	"Not Found" (404) at link https://hctxf.org/"https://mmbiz.qpic.cn/sz_mmbiz_png/jaAElKZ6hFTEUG8M4oD6YL6icnQQJt2N7iaRLHX9VqW2ibSQFmDmYNRiciaGqm2BJqibib1KHxCLCmWtddyNcmkOZMT1w/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=10015&wx_lazy=1%22 (from https://hctxf.org/nd.jsp?fromColId=2&id=220)
+16:54:37	Error: 	"Not Found" (404) at link https://hctxf.org/"https://mmbiz.qpic.cn/sz_mmbiz_png/jaAElKZ6hFTEUG8M4oD6YL6icnQQJt2N7dy9CyAksDel8e1MPQ8QnfsoO0LEuQoxOKbWdrGqZ1zalpy0LauHiaOA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=10015&wx_lazy=1%22 (from https://hctxf.org/nd.jsp?fromColId=2&id=220)
+16:54:37	Error: 	"Not Found" (404) at link https://hctxf.org/"https://mmbiz.qpic.cn/sz_mmbiz_png/jaAElKZ6hFTEUG8M4oD6YL6icnQQJt2N7WSz8pgfd8MiaIRSIpJGibwZtIiaEEqL7nQkFxEqt4UcGAo91LrW3EcNFw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=10015&wx_lazy=1%22 (from https://hctxf.org/nd.jsp?fromColId=2&id=220)
+16:54:37	Error: 	"Not Found" (404) at link https://hctxf.org/"https://mmbiz.qpic.cn/sz_mmbiz_png/jaAElKZ6hFTEUG8M4oD6YL6icnQQJt2N7gA7Qib6fibvNng3rbXGgzafxfHqAuOsiaFNyGicspE0ImjjKpGGXoIXmibw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=10015&wx_lazy=1%22 (from https://hctxf.org/nd.jsp?fromColId=2&id=220)
+16:54:37	Error: 	"Not Found" (404) at link https://hctxf.org/"https://mmbiz.qpic.cn/sz_mmbiz_png/jaAElKZ6hFTEUG8M4oD6YL6icnQQJt2N76OpHg6lqNseIWJLtEhgH2oEsNvreO14wnaA9js4mUgqTnqEsH6n1KQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=10015&wx_lazy=1%22 (from https://hctxf.org/nd.jsp?fromColId=2&id=220)
+16:54:37	Error: 	"Not Found" (404) at link https://hctxf.org/"https://mmbiz.qpic.cn/sz_mmbiz_png/jaAElKZ6hFTEUG8M4oD6YL6icnQQJt2N79KQ2lfCEAKqBVzanWkvld6IlEtgRbjVaOBRPaMNra3icyYic1G9jeZKA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=10015&wx_lazy=1%22 (from https://hctxf.org/nd.jsp?fromColId=2&id=220)
+16:54:46	Error: 	"Not Found" (404) at link 2.ss.508sys.com/css/site/fileUploadV2.min.css?v=202104121257 (from https://hctxf.org/cn/view.jsp)
+16:54:46	Error: 	"Not Found" (404) at link 2.ss.508sys.com/css/fontsIco.min.css?v=202008261414 (from https://hctxf.org/cn/view.jsp)
+16:54:53	Error: 	"Not Found" (404) at link https://hctxf.org/px (from 1.ss.508sys.com/js/dist/libs/imageEffect.min.js?v=202412021706)
+16:57:18	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstylee418.css
+16:57:18	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstylef5d1.css
+16:57:18	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle36ea.css
+16:57:18	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle4ae1.css
+16:57:30	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle74ac.css
+16:57:30	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstylefbfd.css
+16:57:30	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle969e.css
+16:57:30	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle8e6e.css
+16:57:30	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle8874.css
+16:57:30	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle126c.css
+17:01:16	Error: 	"Not Found" (404) at link https://hctxf.org/"https://mmbiz.qpic.cn/mmbiz_png/Ljib4So7yuWgYOLy8hgk31CnUcbBEu2gKZribEp23ibicQIEiaVt10uJZ0qFYJiamOuknbZoicw5otK7vpnEWlkYcbibgQ/640?wx_fmt=png%22 (from https://hctxf.org/nd.jsp?id=162)
+17:01:28	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle9cea.css
+17:01:28	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstylecfc3.css
+17:01:28	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstylebbf8.css
+17:01:28	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle79d5.css
+17:01:28	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle89a6.css
+17:01:28	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle36cc.css
+17:01:28	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle1b44.css
+17:01:36	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle735b.css
+17:01:36	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstylee0cf.css
+17:01:36	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle4f07.css
+17:01:36	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstylefbe2.css
+17:01:36	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle0e5a.css
+17:01:36	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle0727.css
+17:01:37	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle2f4e.css
+17:01:37	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstylee6d4.css
+17:01:37	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle7a0f.css
+17:01:37	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle3aec.css
+17:01:37	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle9878.css
+17:01:37	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle1f5a.css
+17:01:47	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyled047.css
+17:01:47	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle98ec.css
+17:01:47	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle57fe.css
+17:01:47	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstylef2a5.css
+17:01:47	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyleb57d.css
+17:01:47	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyleb814.css
+17:01:47	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyleb298.css
+17:01:47	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle93b2.css
+17:01:47	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstyle7f48.css
+17:22:36	Error: 	"Not Found" (404) at link https://hz28.webportal.top/sitekc.com/ (from fe.508sys.com/jssdk_1_1/js/hawkEye.min.js?v=202511271400)
+17:22:36	Error: 	"Not Found" (404) at link https://hz28.webportal.top/www.sitekc.com/ (from fe.508sys.com/jssdk_1_1/js/hawkEye.min.js?v=202511271400)
+17:22:36	Error: 	"Not Found" (404) at link https://hz28.webportal.top/www.yingzhankc.com/ (from fe.508sys.com/jssdk_1_1/js/hawkEye.min.js?v=202511271400)
+17:22:36	Error: 	"Not Found" (404) at link https://hz28.webportal.top/m.sitekc.com/ (from fe.508sys.com/jssdk_1_1/js/hawkEye.min.js?v=202511271400)
+17:22:37	Error: 	"Not Found" (404) at link https://hz28.webportal.top/edge/ (from fe.508sys.com/package/fa-component/1.1.4/js/antd.min.js)
+17:22:37	Warning: 	Warning: store text/css without scan: beian.mps.gov.cn/css/chunk-vendors.497715c8.css
+17:22:37	Warning: 	Warning: store text/css without scan: beian.mps.gov.cn/css/app.af4d7b43.css
+17:22:37	Warning: 	Warning: store text/css without scan: www.w3.org/StyleSheets/TR/base.css
+17:22:37	Warning: 	Moved Permanently for https://sj.fkw.com/
+17:22:37	Warning: 	File has moved from https://sj.fkw.com/ to http://sj.fkw.com/jump.jsp
+17:23:07	Error: 	"Forbidden" (403) at link fe.508sys.com/pdf/ (from https://hctxf.org/previewfile.jsp?file=ABUIABA9GAAgpe35wgYooML6lQM&oem=1)
+17:23:36	Warning: 	Warning: store text/css without scan: hctxf.org/jzcusstylef078.css
+17:26:25	Error: 	"Forbidden" (403) at link https://hctxf.org/"data:image/svg+xml,%3csvg width='12' height='12' viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath fill-rule='evenodd' clip-rule='evenodd' d='M7.60772 8.29444C7.02144 8.73734 6.29139 9 5.5 9C3.567 9 2 7.433 2 5.5C2 3.567 3.567 2 5.5 2C7.433 2 9 3.567 9 5.5C9 6.28241 8.74327 7.00486 8.30946 7.5877C8.3183 7.59444 8.3268 7.60186 8.33488 7.60994L10.4331 9.70816L9.726 10.4153L7.62777 8.31704C7.62055 8.30983 7.61387 8.30228 7.60772 8.29444ZM8 5.5C8 6.88071 6.88071 8 5.5 8C4.11929 8 3 6.88071 3 5.5C3 4.11929 4.11929 3 5.5 3C6.88071 3 8 4.11929 8 5.5Z' fill='%23576B95'/%3e%3c/svg%3e" (from https://hctxf.org/nd.jsp?id=191&groupId=-1)
+17:26:25	Error: 	"Not Found" (404) at link https://hctxf.org/'https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/39595/1488a4e8-08f5-466b-b2a6-fae13ed2306a17186239.png?auth_key=1673524177-c041959c9ea5434f9c1be953aefde2c3-315875516-49d27b8a5fff193860f129da4ce8556e' (from https://hctxf.org/nd.jsp?id=179&groupId=-1)
+17:26:25	Error: 	"Not Found" (404) at link https://hctxf.org/'https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/39595/dc2398ba-da6d-4a66-9111-417f4e139e0517184591.png?auth_key=1673524177-c041959c9ea5434f9c1be953aefde2c3-315875516-49d27b8a5fff193860f129da4ce8556e' (from https://hctxf.org/nd.jsp?id=179&groupId=-1)
+17:26:25	Error: 	"Not Found" (404) at link https://hctxf.org/'https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/39595/9edd7be2-6c48-42fd-8ff6-18b3da85261d17184606.png?auth_key=1673524177-c041959c9ea5434f9c1be953aefde2c3-315875516-49d27b8a5fff193860f129da4ce8556e' (from https://hctxf.org/nd.jsp?id=179&groupId=-1)
+17:26:25	Error: 	"Not Found" (404) at link https://hctxf.org/'https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/39595/8535f3eb-1849-4a61-9ffd-411017456f2817186333.png?auth_key=1673524177-c041959c9ea5434f9c1be953aefde2c3-315875516-49d27b8a5fff193860f129da4ce8556e' (from https://hctxf.org/nd.jsp?id=179&groupId=-1)
+17:27:04	Warning: 	Warning: store text/css without scan: fe.508sys.com/ueditor_1_0/css/ueditor.min091c.css
+17:27:45	Error: 	"Not Found" (404) at link https://hctxf.org/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:27:45	Error: 	"Not Found" (404) at link https://hctxf.org/js/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:27:45	Error: 	"Not Found" (404) at link https://hctxf.org/pdfjs/web/viewer.html?file= (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:27:45	Warning: 	Retry after error -5 (Unable to get server's address: Temporary failure in name resolution) at link a/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:27:45	Warning: 	Retry after error -5 (Unable to get server's address: Temporary failure in name resolution) at link https://a@b/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:27:45	Warning: 	Retry after error -5 (Unable to get server's address: Temporary failure in name resolution) at link xn--babb6r0eedb/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:27:45	Warning: 	Retry after error -5 (Unable to get server's address: Temporary failure in name resolution) at link x/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:27:45	Error: 	"Not Found" (404) at link https://hctxf.org/e,t (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:27:45	Error: 	"Not Found" (404) at link https://hctxf.org/e (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:27:45	Error: 	"Not Found" (404) at link https://hctxf.org/u,window.location (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:27:45	Error: 	"Not Found" (404) at link https://hctxf.org/pdf.worker.js (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:27:45	Error: 	"Not Found" (404) at link https://hctxf.org/t,r (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:27:45	Error: 	"Not Found" (404) at link https://hctxf.org/t,window.location (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:27:46	Error: 	"Not Found" (404) at link https://hctxf.org/GET (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:27:55	Warning: 	Retry after error -5 (Unable to open local file) at link file://// (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:27:55	Error: 	"Not Found" (404) at link https://hctxf.org/edge/ (from fe.508sys.com/pdf/js/chunk-vue.0acc67aa.js)
+17:28:06	Warning: 	Warning: store text/html without scan: s1-cdn.eqxiu.com/index.html
+17:28:06	Error: 	"Forbidden" (403) at link https://asset.eqh5.com/ (from https://g.eqxiu.com/s/DOb1Ay83?eqrcode=1&share_level=1&from_user=2020090968136f4c&from_id=fa9b3482-7&share_time=1599635976472)
+17:28:06	Warning: 	Warning: store text/css without scan: lib.eqh5.com/eqx.sdk.ad/1.4.3/index.css
+17:28:06	Warning: 	Warning: store text/css without scan: lib.eqh5.com/iconfonts/4.5.2/iconfonts.min.css
+17:28:06	Warning: 	Warning: store text/css without scan: lib.eqh5.com/Swiper/7.2.0/swiper-bundle.min.css
+17:28:06	Warning: 	Warning: store text/css without scan: lib.eqh5.com/h5_view_2/css/view-df7b65a.min.css
+17:30:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link a/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:30:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://a@b/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:30:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link xn--babb6r0eedb/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:30:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link x/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:30:59	Warning: 	Warning: store text/css without scan: rddl.org/xrd.css
+17:31:23	Warning: 	Retry after error -5 (Unable to open local file) at link file://// (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:31:59	Warning: 	Moved Permanently for i.edu.fkw.com/?source_biz=5&open_source=120020
+17:31:59	Warning: 	Redirected link is identical because of 'URL Hack' option: i.edu.fkw.com/?source_biz=5&open_source=120020 and https://i.edu.fkw.com/?source_biz=5&open_source=120020
+17:31:59	Warning: 	File has moved from i.edu.fkw.com/?source_biz=5&open_source=120020 to https://i.edu.fkw.com/?source_biz=5&open_source=120020
+17:31:59	Warning: 	Moved Permanently for yk.fkw.com/
+17:31:59	Warning: 	Redirected link is identical because of 'URL Hack' option: yk.fkw.com/ and https://yk.fkw.com/
+17:31:59	Warning: 	File has moved from yk.fkw.com/ to https://yk.fkw.com/
+17:32:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link a/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:32:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://a@b/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:32:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link xn--babb6r0eedb/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:32:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link x/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:32:24	Warning: 	Warning: store text/css without scan: www.w3.org/assets/website-2021/styles/core7ef2.css
+17:32:24	Warning: 	Warning: store text/css without scan: www.w3.org/assets/website-2021/styles/advanced7ef2.css
+17:32:24	Warning: 	Warning: store text/css without scan: www.w3.org/assets/website-2021/styles/print.css
+17:32:24	Warning: 	Warning: store image/svg+xml without scan: www.w3.org/assets/logos/w3c-2025/svg/w3c.svg
+17:32:24	Warning: 	Warning: store image/svg+xml without scan: www.w3.org/assets/website-2021/svg/search.svg
+17:32:24	Warning: 	Warning: store image/svg+xml without scan: www.w3.org/assets/website-2021/svg/avatar.svg
+17:32:24	Warning: 	Warning: store image/svg+xml without scan: www.w3.org/assets/website-2021/svg/mastodon.svg
+17:32:24	Warning: 	Warning: store image/svg+xml without scan: www.w3.org/assets/website-2021/svg/github.svg
+17:32:24	Warning: 	Warning: store text/css without scan: www.w3.org/StyleSheets/TR/W3C-REC.css
+17:32:24	Warning: 	Warning: store text/html without scan: www.w3.org/TR/index.html
+17:32:24	Warning: 	Retry after error -5 (Unable to open local file) at link file://// (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:32:33	Warning: 	Warning: store text/css without scan: ps.faisys.com/css/mkt/appletOperate.min6354.css
+17:32:33	Warning: 	Warning: store text/css without scan: ps.faisys.com/css/mocacRun.min6354.css
+17:35:10	Warning: 	Warning: store text/css without scan: ps.faisys.com/css/version2/fkwProComm.min6354.css
+17:35:10	Warning: 	Warning: store text/css without scan: fkh.508sys.com/css/market.min7d63.css
+17:35:10	Warning: 	Warning: store text/css without scan: ps.faisys.com/css/seoQppPro.min6354.css
+17:35:10	Warning: 	Warning: store text/css without scan: ps.faisys.com/css/version2/faiCorpCenter.min6354.css
+17:35:10	Warning: 	Warning: store text/css without scan: ps.faisys.com/css/shopFlyerNewPage.min6354.css
+17:35:10	Warning: 	Moved Permanently for www.fkw.com/
+17:35:10	Warning: 	Redirected link is identical because of 'URL Hack' option: www.fkw.com/ and https://www.fkw.com/
+17:35:10	Warning: 	File has moved from www.fkw.com/ to https://www.fkw.com/
+17:35:10	Warning: 	Warning: store text/html without scan: www.fkw.com/index.html
+17:35:10	Warning: 	Warning: store text/css without scan: fkh.508sys.com/css/comm.min7d63.css
+17:35:10	Warning: 	Warning: store text/css without scan: fkh.508sys.com/css/fkwComm.min7d63.css
+17:35:10	Warning: 	Warning: store text/css without scan: fkh.508sys.com/css/serviceBox.min7d63.css
+17:35:10	Warning: 	Warning: store text/css without scan: ps.faisys.com/css/consultant.min6354.css
+17:35:10	Warning: 	Warning: store text/css without scan: ps.faisys.com/css/version2/popularizeWebsite.min6354.css
+17:35:10	Warning: 	Warning: store text/css without scan: i.fkw.com/res/js/layui/css/layui.css
+17:35:10	Error: 	"Unable to get server's address: unknown error" (-5) after 3 retries at link a/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:35:10	Error: 	"Unable to get server's address: unknown error" (-5) after 3 retries at link https://a@b/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:35:10	Error: 	"Unable to get server's address: unknown error" (-5) after 3 retries at link xn--babb6r0eedb/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:35:10	Error: 	"Unable to get server's address: unknown error" (-5) after 3 retries at link x/ (from fe.508sys.com/pdf/js/app.702f2b60.js)
+17:35:10	Error: 	"Unable to open local file" (-5) after 3 retries at link file://// (from fe.508sys.com/pdf/js/chunk-pdfjs.0649e236.js)
+17:35:12	Error: 	"Not Found" (404) at link ps.faisys.com/image/webSiteConstruction/bg01.png (from ps.faisys.com/css/mkt/webSiteConstruction.min.css?v=202603311444)
+17:35:22	Warning: 	Warning: store text/css without scan: ps.faisys.com/css/loginNew.min6354.css
+17:35:22	Warning: 	Warning: store text/css without scan: ps.faisys.com/css/keywordSearchPopup.min6354.css
+
+HTTrack Website Copier/3.49-5 mirror complete in 1 hours 7 minutes 32 seconds : 1858 links scanned, 1797 files written (308337504 bytes overall) [221054074 bytes received at 54554 bytes/sec], 110734320 bytes transferred using HTTP compression in 1118 files, ratio 20%, 3.6 requests per connection
+(42 errors, 103 warnings, 0 messages)

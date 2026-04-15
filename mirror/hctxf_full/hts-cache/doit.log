@@ -1,0 +1,8 @@
+https://hctxf.org/ https://www.hctxf.org/ http://hctxf.org/ http://www.hctxf.org/ +* -w -O /data2/huachengtinaxia/mirror/hctxf_full -r9999 -%e1 -n -%q -c4 -%c2 -R3 -T25 -s0 -M20000000000 -%k -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" -iC1
+File generated automatically on Fri, 10 Apr 2026 16:27:50, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

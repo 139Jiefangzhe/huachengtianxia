@@ -1,0 +1,126 @@
+.max-ad__wrap .clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0; }
+
+.max-ad__wrap h4 {
+  font-size: 18px; }
+
+.max-ad__wrap h5 {
+  font-size: 16px; }
+
+.exposure-banner img {
+  width: 100%;
+  vertical-align: top; }
+
+.text {
+  position: relative; }
+
+.pop-wrap {
+  position: fixed;
+  top: 60px;
+  left: 50%;
+  padding: 16px;
+  box-shadow: 0 4px 12px 0 #666;
+  margin: 0 auto;
+  transform: translate(-50%, -50%);
+  border-radius: 2px;
+  background-color: #fff;
+  color: #333;
+  z-index: 1010; }
+  .pop-wrap span {
+    display: inline-block; }
+  .pop-wrap .right, .pop-wrap .wrong {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle; }
+  .pop-wrap .wrong {
+    background: url(573601f5e4438260e12603ab73c43380.svg) no-repeat; }
+  .pop-wrap .right {
+    background: url(d30665d7bec0224f1bbf2aae01994718.svg) no-repeat; }
+
+.bcd-carousel {
+  position: relative;
+  width: 100%;
+  overflow: hidden; }
+  .bcd-carousel:hover .bcd-carousel_btn_blank {
+    display: block; }
+  .bcd-carousel .bcd-carousel_wrapper {
+    white-space: nowrap; }
+    .bcd-carousel .bcd-carousel_wrapper .bcd-carousel_slider {
+      display: inline-block;
+      height: 100%; }
+      .bcd-carousel .bcd-carousel_wrapper .bcd-carousel_slider img {
+        width: 100%;
+        height: 100%;
+        max-width: 100%;
+        vertical-align: text-top; }
+  .bcd-carousel .bcd-carousel_pagination {
+    text-align: center;
+    position: absolute;
+    bottom: 12px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0; }
+    .bcd-carousel .bcd-carousel_pagination .bcd-carousel_pagination-bullet {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background-color: rgba(0, 0, 0, 0.4);
+      display: inline-block;
+      cursor: pointer; }
+      .bcd-carousel .bcd-carousel_pagination .bcd-carousel_pagination-bullet:hover {
+        background-color: #1261FF; }
+      .bcd-carousel .bcd-carousel_pagination .bcd-carousel_pagination-bullet-active {
+        background-color: #fff !important; }
+      .bcd-carousel .bcd-carousel_pagination .bcd-carousel_pagination-bullet.bcd-carousel_pagination-rect.bcd-carousel_pagination-bullet-active {
+        width: 16px;
+        border-radius: 3px; }
+    .bcd-carousel .bcd-carousel_pagination .bcd-carousel_pagination-bullet + .bcd-carousel_pagination-bullet {
+      margin-left: 7px; }
+  .bcd-carousel .bcd-carousel_btn_blank {
+    display: none; }
+    .bcd-carousel .bcd-carousel_btn_blank .bcd-carousel_btn {
+      cursor: pointer;
+      height: 36px;
+      background-color: rgba(0, 0, 0, 0.6);
+      border-radius: 50%;
+      box-shadow: 0px 9px 28px 8px rgba(0, 0, 0, 0.05), 0px 6px 16px 0px rgba(0, 0, 0, 0.08), 0px 3px 6px -4px rgba(0, 0, 0, 0.12); }
+      .bcd-carousel .bcd-carousel_btn_blank .bcd-carousel_btn.bcd-carousel_btn-prev {
+        transform: rotate(180deg);
+        transform-origin: 19px 11px;
+        background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 38 44'%3E%3Cpath d='M7.86718917,6.29517868 L1.73985584,0.290345351 C1.33668495,-0.0967817837 0.699860052,-0.0967817837 0.29668917,0.290345351 C0.106924985,0.476409838 0,0.73099814 0,0.996762018 C0,1.2625259 0.106924985,1.5171142 0.29668917,1.70317868 L5.7030225,6.99517868 L0.297855836,12.2918454 C0.108385803,12.4780681 0.00166538043,12.7325972 0.00166538043,12.998262 C0.00166538043,13.2639269 0.108385803,13.5184559 0.297855836,13.7046787 C0.698400963,14.0971669 1.33931071,14.0971669 1.73985584,13.7046787 L7.8660225,7.70451202 C8.05878949,7.52007912 8.16781373,7.26488105 8.16781373,6.99809535 C8.16781373,6.73130965 8.05878949,6.47611158 7.8660225,6.29167868 L7.86718917,6.29517868 Z' fill='%23fff'/%3E%3C/svg%3E");
+        background-size: 38px;
+        background-position: 14px 11px; }
+        .bcd-carousel .bcd-carousel_btn_blank .bcd-carousel_btn.bcd-carousel_btn-prev:hover {
+          background-color: #fff;
+          background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 38 44'%3E%3Cpath d='M7.86718917,6.29517868 L1.73985584,0.290345351 C1.33668495,-0.0967817837 0.699860052,-0.0967817837 0.29668917,0.290345351 C0.106924985,0.476409838 0,0.73099814 0,0.996762018 C0,1.2625259 0.106924985,1.5171142 0.29668917,1.70317868 L5.7030225,6.99517868 L0.297855836,12.2918454 C0.108385803,12.4780681 0.00166538043,12.7325972 0.00166538043,12.998262 C0.00166538043,13.2639269 0.108385803,13.5184559 0.297855836,13.7046787 C0.698400963,14.0971669 1.33931071,14.0971669 1.73985584,13.7046787 L7.8660225,7.70451202 C8.05878949,7.52007912 8.16781373,7.26488105 8.16781373,6.99809535 C8.16781373,6.73130965 8.05878949,6.47611158 7.8660225,6.29167868 L7.86718917,6.29517868 Z' fill='%231261ff'/%3E%3C/svg%3E"); }
+      .bcd-carousel .bcd-carousel_btn_blank .bcd-carousel_btn.bcd-carousel_btn-next {
+        background-size: 38px;
+        background-position: 9px 11px;
+        background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-6 0 38 44'%3E%3Cpath d='M8.45016667,6.29533333 L2.32283333,0.2905 C1.91966245,-0.0966271347 1.28283755,-0.0966271347 0.879666667,0.2905 C0.689902482,0.476564487 0.582977497,0.731152789 0.582977497,0.996916667 C0.582977497,1.26268054 0.689902482,1.51726885 0.879666667,1.70333333 L6.286,6.99533333 L0.880833333,12.292 C0.691363301,12.4782227 0.584642877,12.7327518 0.584642877,12.9984167 C0.584642877,13.2640815 0.691363301,13.5186106 0.880833333,13.7048333 C1.28137846,14.0973216 1.92228821,14.0973216 2.32283333,13.7048333 L8.449,7.70466667 C8.64176699,7.52023377 8.75079123,7.2650357 8.75079123,6.99825 C8.75079123,6.7314643 8.64176699,6.47626623 8.449,6.29183333 L8.45016667,6.29533333 Z' fill='%23fff'/%3E%3C/svg%3E "); }
+        .bcd-carousel .bcd-carousel_btn_blank .bcd-carousel_btn.bcd-carousel_btn-next:hover {
+          background-color: #fff;
+          background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-6 0 38 44'%3E%3Cpath d='M8.45016667,6.29533333 L2.32283333,0.2905 C1.91966245,-0.0966271347 1.28283755,-0.0966271347 0.879666667,0.2905 C0.689902482,0.476564487 0.582977497,0.731152789 0.582977497,0.996916667 C0.582977497,1.26268054 0.689902482,1.51726885 0.879666667,1.70333333 L6.286,6.99533333 L0.880833333,12.292 C0.691363301,12.4782227 0.584642877,12.7327518 0.584642877,12.9984167 C0.584642877,13.2640815 0.691363301,13.5186106 0.880833333,13.7048333 C1.28137846,14.0973216 1.92228821,14.0973216 2.32283333,13.7048333 L8.449,7.70466667 C8.64176699,7.52023377 8.75079123,7.2650357 8.75079123,6.99825 C8.75079123,6.7314643 8.64176699,6.47626623 8.449,6.29183333 L8.45016667,6.29533333 Z' fill='%231261ff'/%3E%3C/svg%3E"); }
+  .bcd-carousel .bcd-carousel_btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 36px;
+    height: 36px;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.3); }
+  .bcd-carousel .bcd-carousel_btn-prev {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 27 44'%3E%3Cpath d='M0 22L22 0l2.1 2.1L4.2 22l19.9 19.9L22 44 0 22z' fill='%23fff'/%3E%3C/svg%3E");
+    left: 10px; }
+  .bcd-carousel .bcd-carousel_btn-next {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 27 44'%3E%3Cpath d='M27 22L5 44l-2.1-2.1L22.8 22 2.9 2.1 5 0l22 22z' fill='%23fff'/%3E%3C/svg%3E");
+    right: 10px; }
+
+
+/*# sourceMappingURL=index.css.map*/

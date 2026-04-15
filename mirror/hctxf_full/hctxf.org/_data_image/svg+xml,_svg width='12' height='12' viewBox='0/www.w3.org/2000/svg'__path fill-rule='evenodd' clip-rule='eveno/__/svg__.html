@@ -1,0 +1,18 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>可疑请求拦截通知</title>
+	<script type="text/javascript">
+	function ForbidFreshPage() {
+	    if ((window.event.ctrlKey && window.event.keyCode == 116) || window.event.keyCode == 116) {
+	        window.event.keyCode = 0;
+	        window.event.returnValue = false;
+	    }
+	}
+	document.onkeydown = ForbidFreshPage;
+	</script>
+</head>
+<body>
+	抱歉，您的访问疑似攻击请求，已被系统自动拦截，如为误封请联系客服。
+</body>
+</html>
